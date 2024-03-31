@@ -1,0 +1,13 @@
+allure-pytest==2.13.4
+allure-python-commons==2.13.4
+attrs==23.2.0
+execnet==2.0.2
+greenlet==3.0.3
+iniconfig==2.0.0
+packaging==24.0
+playwright==1.42.0
+pluggy==1.4.0
+pyee==11.0.1
+pytest==8.1.1
+pytest-xdist==3.5.0
+typing_extensions==4.10.0
